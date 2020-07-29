@@ -25,12 +25,13 @@
 因系统任务负载原因有有快有慢，大约需要3分钟左右
 
 四、配置运营位
-![image](https://github.com/ianpei/market/blob/master/pic/6.jpg) 
+![image](https://github.com/ianpei/market/blob/master/pic/7.jpg) 
 点击“构建记录”列表或者“派生包管理”中的“配置”按钮，选择相应的页面进行配参关联
 
-![image](https://github.com/ianpei/market/blob/master/pic/7.jpg) 
+
 对于系统模型“自定义投放”或者“卡密系统”的配参分别由“系统模型/自定义投放”和“系统模型/卡密系统”中创建。
+![image](https://github.com/ianpei/market/blob/master/pic/8.jpg) 
 
 对于三方模型，则由模型相对应的官方平台中创建，并填添加到9A配参管理中
-![image](https://github.com/ianpei/market/blob/master/pic/8.jpg) 
+
 ![image](https://github.com/ianpei/market/blob/master/pic/9.jpg) 
